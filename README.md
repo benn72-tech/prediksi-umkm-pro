@@ -57,8 +57,3 @@ Aplikasi ini dirancang **sederhana, praktis, dan mudah digunakan**, bahkan oleh 
 
 👉 Akses Aplikasi Online: 
 https://prediksi-harga-beni-pro.streamlit.app/
-
-
-
-## 📂 Struktur File Project
-
