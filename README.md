@@ -39,6 +39,22 @@ Aplikasi ini dirancang **sederhana, praktis, dan mudah digunakan**, bahkan oleh 
 4. AI belajar dari data lama
 5. AI memprediksi nilai baru berdasarkan input terbaru
 
+📌 Semakin rapi dan banyak data, hasil prediksi akan semakin baik.
+
+---
+
+## 📂 Struktur File Project
+
+prediksi-umkm-pro/
+│
+├── app.py # Aplikasi utama Streamlit
+├── data_umkm.csv # Data contoh UMKM
+├── model_umkm.pkl # Model Machine Learning
+├── requirements.txt # Library Python yang dibutuhkan
+└── README.md # Dokumentasi proyek
+
+yaml
+Copy code
 
 ---
 
@@ -53,7 +69,21 @@ Aplikasi ini dirancang **sederhana, praktis, dan mudah digunakan**, bahkan oleh 
 
 ---
 
-🌐 Demo Online
+## ▶️ Cara Menjalankan Aplikasi (Lokal)
 
-👉 Akses Aplikasi Online: 
-https://prediksi-harga-beni-pro.streamlit.app/
+1. Install library:
+```bash
+pip install -r requirements.txt
+Jalankan aplikasi:
+
+bash
+Copy code
+streamlit run app.py
+Buka browser:
+
+arduino
+Copy code
+http://localhost:8501
+🌐 Demo Online
+👉 Akses Aplikasi Online: https://prediksi-harga-beni-pro.streamlit.app/
+
